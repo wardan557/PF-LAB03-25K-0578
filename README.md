@@ -1,7 +1,7 @@
 # PF-LAB03-25K-0578
 ##  HEADIND 2
 ### HEADING 3
-
+Passionate computer science student skilled in programming and problem-solving, eager to explore AI and software development. Dedicated to learning and applying
 THIS IS LAB-03  CS-G
 <br/>
 we studies github
